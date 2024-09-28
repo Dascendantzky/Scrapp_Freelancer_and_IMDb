@@ -3,5 +3,4 @@ The code involves scraping data from Freelancer and IMDb using Python jupiter, u
 2. pandas for data manipulation
 3. BeautifulSoup (from bs4) to parse HTML.
 
-The notebook likely contains functions to extract and organize data in tabular or report formats from Freelancer, specifically targeting freelancers in Indonesia who specialize in data processing. IMDb targeting the movies "Top 25 Movies" page.
-
+The notebook likely contains functions to extract and organize data in tabular or report formats from Freelancer, specifically targeting freelancers in Indonesia who specialize in data processing only username, user hourly rate, top skills, and profile (all of which are published). IMDb targeting the movies "Top 25 Movies" page.
